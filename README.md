@@ -7,9 +7,9 @@ Welcome to my GitHub profile! I'm passionate about leveraging **cloud computing*
 
 ### 🎓 Education & Skills
 I'm currently expanding my expertise in **Cloud Computing**, **Machine Learning**, and **Data Science**. My journey involves:
-- Building technical portfolios on GitHub to showcase my **AWS skills** and cloud journey[1].
-- Working on **AWS projects** using free tier resources and guided labs in the AWS console[2].
-- Learning AWS cloud skills through Coursera, balancing study with my other interests[3].
+- Building technical portfolios on GitHub to showcase my **AWS skills** and cloud journey.
+- Working on **AWS projects** using free tier resources and guided labs in the AWS console.
+- Learning AWS cloud skills through Coursera, balancing study with my other interests.
 - Experimenting with **Neural Networks**, **TensorFlow**, **PyTorch**, and contributing to **open-source projects**.
 
 ### 💡 Passion & Interests
