@@ -48,7 +48,7 @@ I love experimenting with cloud-based AI models, optimizing real-time data pipel
 
 ## 📫 How to Reach Me
 📧 *Email:* saigirishjanapala@gmail.com  
-🔗 *LinkedIn:* [www.linkedin.com/in/janapala-sai-girish-4548b3282](#)
+🔗 *LinkedIn:* www.linkedin.com/in/janapala-sai-girish-4548b3282
 
 Let’s connect and build something amazing! 🚀
 
